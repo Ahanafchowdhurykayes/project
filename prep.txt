@@ -3,5 +3,10 @@ I am trying hard
 our project is progressing
 git is working
 i am glad too see my work
+<<<<<<< HEAD
 yes its me 
 yeah working
+=======
+my work is fine
+yes iuts good
+>>>>>>> 5372cdb9b14b10fe79ec29635efcaf52fe8fee29
